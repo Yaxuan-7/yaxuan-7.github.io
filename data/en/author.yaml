@@ -1,0 +1,22 @@
+# some information about you
+name: "Yaxuan Huang"
+nickname: "Yaxuan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/yaxuan.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "yaxuanhyx.huang@gmail.com"
+#  phone: "+49 17643418089"
+  github: Yaxuan-7
+  linkedin: yaxuan-huang-bb4716165
+#  researchgate: john-doe
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am passionate about open-source
+  - I love to work with some fun projects
+  - I am a proactive doer
+  - I thrive on challenges
+  - I am curious about everything

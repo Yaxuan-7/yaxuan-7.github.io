@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: RNA Digital Solutions GmbH
+    url: "https://www.rnadigital.de/en"
+    location: Munich, Germany
+    logo: /images/sections/experiences/rna.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: >
+      RNA Digital Solutions GmbH is a Munich-based start-up founded in 2016 and has been part of the 
+      RNA Group since the end of 2020.
+  positions:
+  - designation: Machine Learning Engineer (Intern)
+    start: Jun 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop and refine 3D parts retrieval algorithms using Masked Autoencoders, 
+      enhancing system accuracy and efficiency.
+    - Develop a commercial-ready web application, separating front-end and back-end functionalities, 
+      deploying neural network models on AWS, streamlining the workflow.
+
+- company:
+    name: Contemporary Amperex Technology Co., Limited (CATL)
+    url: "https://www.catl.com/en/"
+    location: Erfurt, Germany
+    logo: /images/sections/experiences/CATL.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: > 
+      CATL is a global leader of new energy innovative technologies,
+      committed to providing premier solutions and services for new energy applications worldwide.
+  positions:
+  - designation: Algorithm Engineer (Intern)
+    start: Jun 2022
+    end: Nov 2022
+    responsibilities:
+    - Deploy intelligent CCD-Camera detection systems for lithium battery production lines.
+    - Optimize vision algorithms using production data analysis, significantly reducing overkill rates.
+
+- company:
+    name: Beijing Mooyee Technology Co., Ltd. (Startup)
+#    url: "https://www.example.com"
+    location: Beijing, China
+    logo: /images/sections/experiences/mooyee.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: >
+      Beijing Muyu Technology Co., Ltd. is committed to the research, 
+      development and promotion of ultra-efficient cleaning technology, 
+      adhering to the concepts of “environmental protection”, “intelligent” and “healthy”.
+  positions:
+  - designation: Co-founder & CTO
+    start: May 2017
+    end: Mar 2021
+    responsibilities:
+    - Lead R&D in atomization technology, resulting in over 20 patent applications.
+    - Oversee the development of 'Air Faucet' water-saving products.
+
+- company:
+    name: Tianjin Lishen Li-ion Battery Co., Ltd.
+    url: "https://en.lishen.com.cn/"
+    location: Tianjin, China
+    logo: /images/sections/experiences/lishen.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: >
+      Tianjin Lishen Battery Joint-Stock Co., Ltd. is China’s first lithium-ion battery R&D firm and manufacturer.
+
+  positions:
+  - designation: R&D Engineer
+    start: Jul 2016
+    end: Apr 207
+    responsibilities:
+    - Design and develop lithium-ion battery structures.
